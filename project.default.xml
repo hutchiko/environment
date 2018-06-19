@@ -1,0 +1,128 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="GradleLocalSettings">
+        <option name="projectSyncType">
+          <map>
+            <entry key="$USER_HOME$/dev/cats-book" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/confluent/kafka" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/eng-resume-pipeline" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/keystone-location-enricher" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/keystone-organisation-enricher" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/keystone-questionnaire-enricher" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/keystone-role-title-enricher" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/knowledge-graph-exporter" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/mordor" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/scala-json-serialization-speed-test" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/sirannon" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/sirannon/connector" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/structureddata-scala-libs" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/structureddata-seek-suggest-api" value="PREVIEW" />
+            <entry key="$USER_HOME$/dev/structureddata-seek-suggest-api/suggest-api" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="HaskellBuildOptions">
+        <ghcPath>/usr/local/bin/ghc</ghcPath>
+        <cabalPath>/usr/local/bin/cabal</cabalPath>
+        <stackPath>/usr/local/bin/stack</stackPath>
+      </component>
+      <component name="NodePackageJsonFileManager">
+        <packageJsonPaths />
+      </component>
+      <component name="PropertiesComponent">
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+        <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+        <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+      </component>
+      <component name="RunManager">
+        <configuration default="true" type="Applet" factoryName="Applet">
+          <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+        </configuration>
+        <configuration default="true" type="Application" factoryName="Application">
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+        </configuration>
+        <configuration default="true" type="JUnit" factoryName="JUnit">
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="PACKAGE_NAME" />
+          <option name="MAIN_CLASS_NAME" />
+          <option name="METHOD_NAME" />
+          <option name="TEST_OBJECT" value="class" />
+          <option name="VM_PARAMETERS" value="-ea" />
+          <option name="PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <option name="TEST_SEARCH_SCOPE">
+            <value defaultName="singleModule" />
+          </option>
+          <patterns />
+        </configuration>
+        <configuration default="true" type="TestNG" factoryName="TestNG">
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="SUITE_NAME" />
+          <option name="PACKAGE_NAME" />
+          <option name="MAIN_CLASS_NAME" />
+          <option name="METHOD_NAME" />
+          <option name="GROUP_NAME" />
+          <option name="TEST_OBJECT" value="CLASS" />
+          <option name="VM_PARAMETERS" value="-ea" />
+          <option name="PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+          <option name="OUTPUT_DIRECTORY" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <option name="TEST_SEARCH_SCOPE">
+            <value defaultName="singleModule" />
+          </option>
+          <option name="USE_DEFAULT_REPORTERS" value="false" />
+          <option name="PROPERTIES_FILE" />
+          <properties />
+          <listeners />
+        </configuration>
+        <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+          <module name="" />
+          <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+          <option name="PROGRAM_PARAMETERS" />
+          <predefined_log_file id="idea.log" enabled="true" />
+        </configuration>
+      </component>
+      <component name="SbtLocalSettings">
+        <option name="projectSyncType">
+          <map>
+            <entry key="$USER_HOME$/dev/eng-resume-pipeline/subprojects/api" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="ScalaProjectSettings">
+        <option name="intInjectionMapping">
+          <map>
+            <entry key="xml" value="XML" />
+          </map>
+        </option>
+      </component>
+      <component name="ScalaSbtSettings">
+        <option name="customVMPath" />
+      </component>
+      <component name="VcsContentAnnotationSettings">
+        <option name="myLimit" value="2678400000" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.8 SDK</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>

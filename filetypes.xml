@@ -1,0 +1,11 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="AugmentedReportPartitioner" type="JAVA" />
+      <mapping pattern="docker" type="PLAIN_TEXT" />
+      <mapping ext="j2" type="PLAIN_TEXT" />
+      <mapping ext="service" type="PLAIN_TEXT" />
+      <mapping ext="env" type="Properties" />
+    </extensionMap>
+  </component>
+</application>

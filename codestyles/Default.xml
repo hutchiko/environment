@@ -1,0 +1,18 @@
+<code_scheme name="Default" version="173">
+  <ScalaCodeStyleSettings>
+    <option name="alwaysUsedImports">
+      <array>
+        <option value="Gen._" />
+        <option value="com.fortysevendeg.scalacheck.datetime.jdk8.ArbitraryJdk8._" />
+        <option value="io.circe.generic.auto._" />
+        <option value="org.scalacheck.ScalacheckShapeless._" />
+        <option value="seek.aio.keystone.projector.JsonUtils._" />
+        <option value="seek.eng.enrichmentpipeline.events.instances._" />
+        <option value="seek.eng.enrichmentpipeline.projector.util.JsonUtils._" />
+        <option value="seek.sd.JsonUtils._" />
+        <option value="seek.sd.json.JsonUtils._" />
+        <option value="seek.sd.keystone.projector.JsonUtils._" />
+      </array>
+    </option>
+  </ScalaCodeStyleSettings>
+</code_scheme>
