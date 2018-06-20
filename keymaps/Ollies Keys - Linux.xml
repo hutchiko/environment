@@ -67,7 +67,6 @@
     <keyboard-shortcut first-keystroke="ctrl f9" />
     <keyboard-shortcut first-keystroke="alt f9" />
   </action>
-  <action id="Console.Execute" />
   <action id="Console.TableResult.EditValue">
     <keyboard-shortcut first-keystroke="f2" />
   </action>
@@ -102,7 +101,6 @@
   <action id="Editor Undo">
     <keyboard-shortcut first-keystroke="ctrl z" />
   </action>
-  <action id="EditorChooseLookupItem" />
   <action id="EditorCompleteStatement">
     <keyboard-shortcut first-keystroke="shift meta enter" />
     <keyboard-shortcut first-keystroke="shift alt enter" />
@@ -156,7 +154,6 @@
     <keyboard-shortcut first-keystroke="meta l" />
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
-  <action id="Images.Thumbnails.EnterAction" />
   <action id="IntroduceConstant">
     <keyboard-shortcut first-keystroke="meta alt c" />
     <keyboard-shortcut first-keystroke="ctrl alt c" />
@@ -186,9 +183,6 @@
   <action id="MoveLineUp">
     <keyboard-shortcut first-keystroke="alt up" />
   </action>
-  <action id="NextTemplateVariable">
-    <keyboard-shortcut first-keystroke="tab" />
-  </action>
   <action id="ParameterInfo">
     <keyboard-shortcut first-keystroke="meta p" />
     <keyboard-shortcut first-keystroke="alt p" />
@@ -198,7 +192,6 @@
     <keyboard-shortcut first-keystroke="shift meta insert" />
     <keyboard-shortcut first-keystroke="shift ctrl v" />
   </action>
-  <action id="PropertyInspectorActions.EditValue" />
   <action id="QuickEvaluateExpression">
     <keyboard-shortcut first-keystroke="meta alt f8" />
   </action>
