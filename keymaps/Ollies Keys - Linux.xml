@@ -58,13 +58,18 @@
     <keyboard-shortcut first-keystroke="meta divide" />
     <keyboard-shortcut first-keystroke="ctrl slash" />
   </action>
+  <action id="Compile">
+    <keyboard-shortcut first-keystroke="shift meta f9" />
+    <keyboard-shortcut first-keystroke="shift alt f9" />
+  </action>
   <action id="CompileDirty">
     <keyboard-shortcut first-keystroke="meta f9" />
     <keyboard-shortcut first-keystroke="ctrl f9" />
+    <keyboard-shortcut first-keystroke="alt f9" />
   </action>
+  <action id="Console.Execute" />
   <action id="Console.TableResult.EditValue">
     <keyboard-shortcut first-keystroke="f2" />
-    <keyboard-shortcut first-keystroke="enter" />
   </action>
   <action id="Console.TableResult.EditValueMaximized">
     <keyboard-shortcut first-keystroke="shift enter" />
@@ -76,6 +81,7 @@
     <keyboard-shortcut first-keystroke="meta d" />
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
+  <action id="DirDiffMenu.SynchronizeDiff" />
   <action id="Django.RunManageTaskAction" />
   <action id="Editor Copy">
     <keyboard-shortcut first-keystroke="ctrl c" />
@@ -96,10 +102,12 @@
   <action id="Editor Undo">
     <keyboard-shortcut first-keystroke="ctrl z" />
   </action>
+  <action id="EditorChooseLookupItem" />
   <action id="EditorCompleteStatement">
     <keyboard-shortcut first-keystroke="shift meta enter" />
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
+  <action id="EditorEnter" />
   <action id="EditorLineStart">
     <keyboard-shortcut first-keystroke="home" />
     <keyboard-shortcut first-keystroke="meta left" />
@@ -145,6 +153,11 @@
     <mouse-shortcut keystroke="meta button1" />
     <mouse-shortcut keystroke="alt button1" />
   </action>
+  <action id="GotoLine">
+    <keyboard-shortcut first-keystroke="meta l" />
+    <keyboard-shortcut first-keystroke="enter" />
+  </action>
+  <action id="Images.Thumbnails.EnterAction" />
   <action id="IntroduceConstant">
     <keyboard-shortcut first-keystroke="meta alt c" />
     <keyboard-shortcut first-keystroke="ctrl alt c" />
@@ -174,6 +187,9 @@
   <action id="MoveLineUp">
     <keyboard-shortcut first-keystroke="alt up" />
   </action>
+  <action id="NextTemplateVariable">
+    <keyboard-shortcut first-keystroke="tab" />
+  </action>
   <action id="ParameterInfo">
     <keyboard-shortcut first-keystroke="meta p" />
     <keyboard-shortcut first-keystroke="alt p" />
@@ -183,6 +199,7 @@
     <keyboard-shortcut first-keystroke="shift meta insert" />
     <keyboard-shortcut first-keystroke="shift ctrl v" />
   </action>
+  <action id="PropertyInspectorActions.EditValue" />
   <action id="QuickEvaluateExpression">
     <keyboard-shortcut first-keystroke="meta alt f8" />
   </action>
@@ -202,6 +219,7 @@
   <action id="RerunTests">
     <keyboard-shortcut first-keystroke="ctrl meta r" />
   </action>
+  <action id="RunToCursor" />
   <action id="SaveAll">
     <keyboard-shortcut first-keystroke="meta s" />
     <keyboard-shortcut first-keystroke="ctrl s" />
