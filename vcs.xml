@@ -3,35 +3,7 @@
     <option name="visitedUrls">
       <list>
         <UrlAndUserName>
-          <option name="url" value="git@github.com:confluentinc/kafka-connect-hdfs.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="git@github.com:confluentinc/kafka-connect-storage-common.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="git@github.com:yahoo/kafka-manager.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="git@github.com:apache/spark.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="git@gitlab.jobapi.io:search-auctions/rosetta-rust.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="git@gitlab.jobapi.io:aips/infrastructure.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
           <option name="url" value="git@gitlab.jobapi.io:hobbit/sirannon.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="git@gitlab.jobapi.io:personalisation/personalisation-common.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
@@ -39,7 +11,15 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="git@github.com:spray/spray-json.git" />
+          <option name="url" value="git@gitlab.jobapi.io:personalisation/sol-http-v2.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.jobapi.io:hobbit/mordor.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.jobapi.io:personalisation/luna-js.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
@@ -48,13 +28,9 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/dev" />
-  </component>
-  <component name="Vcs.Log.App.Settings">
-    <option name="COMPACT_REFERENCES_VIEW" value="false" />
-    <option name="SHOW_TAG_NAMES" value="true" />
+    <option name="cloneParentDir" value="C:\Users\hutch\Documents\GitHub" />
   </component>
   <component name="VcsApplicationSettings">
-    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/Downloads" />
+    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/Desktop" />
   </component>
 </application>
