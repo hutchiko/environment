@@ -2,7 +2,9 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="AugmentedReportPartitioner" type="JAVA" />
+      <mapping pattern="xvfb-chrome" type="PLAIN_TEXT" />
       <mapping pattern="docker" type="PLAIN_TEXT" />
+      <mapping pattern="xvfb-firefox" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="env" type="Properties" />
