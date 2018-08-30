@@ -7,6 +7,7 @@
       <mapping pattern="xvfb-firefox" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
+      <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="env" type="Properties" />
       <mapping pattern="ChronicleBackedProducerTest" type="Scala" />
     </extensionMap>
