@@ -34,9 +34,13 @@
           <option name="url" value="git@github.com:databricks/spark-avro.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:jobseekerltd/sol-sdk-android.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$APPLICATION_HOME_DIR$/bin/C:\Users\hutch\Documents\GitHub" />
+    <option name="cloneParentDir" value="$USER_HOME$/dev" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/Desktop" />
