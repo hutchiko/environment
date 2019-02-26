@@ -9,7 +9,6 @@
       <mapping pattern="inventory-boolean" type="PLAIN_TEXT" />
       <mapping pattern="xvfb-firefox" type="PLAIN_TEXT" />
       <mapping pattern="inventory" type="PLAIN_TEXT" />
-      <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
