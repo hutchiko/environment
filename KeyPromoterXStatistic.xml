@@ -6,7 +6,15 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'Meta+F9' or 'Ctrl+F9' or 'Alt+F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>10</Count>
+          <Count>18</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Commit Directory...">
+        <Item>
+          <IdeaActionID>CheckinFiles</IdeaActionID>
+          <ShortCut>'Meta+Shift+C' or 'Alt+Shift+C'</ShortCut>
+          <Description>Commit Directory...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -62,6 +70,14 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'Meta+Alt+Z'</ShortCut>
           <Description>Revert...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'JobIndexUnitTest'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Ctrl+R'</ShortCut>
+          <Description>Run 'JobIndexUnitTest'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
