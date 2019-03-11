@@ -1,8 +1,6 @@
 <application>
   <component name="CodeInsightSettings">
-    <option name="ADD_IMPORTS_ON_PASTE" value="1" />
+    <option name="SHOW_PARAMETER_NAME_HINTS_ON_COMPLETION" value="true" />
   </component>
-  <component name="DaemonCodeAnalyzerSettings" profile="Tight">
-    <option name="NEXT_ERROR_ACTION_GOES_TO_ERRORS_FIRST" value="false" />
-  </component>
+  <component name="DaemonCodeAnalyzerSettings" profile="Tight" />
 </application>
