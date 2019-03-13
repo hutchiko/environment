@@ -2,6 +2,8 @@
   <component name="GoSdkList">
     <sdk-path>
       <set>
+        <option value="/snap/go/3318" />
+        <option value="/snap/go/current" />
         <option value="/usr/lib/go-1.12" />
       </set>
     </sdk-path>
