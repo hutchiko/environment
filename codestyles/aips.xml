@@ -1,4 +1,11 @@
 <code_scheme name="aips" version="173">
+  <option name="OTHER_INDENT_OPTIONS">
+    <value>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+      <option name="SMART_TABS" value="true" />
+    </value>
+  </option>
   <GroovyCodeStyleSettings>
     <option name="ALIGN_MULTILINE_LIST_OR_MAP" value="false" />
     <option name="ALIGN_NAMED_ARGS_IN_MAP" value="false" />
