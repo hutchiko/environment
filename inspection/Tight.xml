@@ -2,6 +2,13 @@
   <option name="myName" value="Tight" />
   <inspection_tool class="ArrayEquality" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="BooleanVariableAlwaysNegated" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="ClassWithMultipleLoggers" enabled="false" level="ERROR" enabled_by_default="false">
+    <option name="loggerNamesString" value="java.util.logging.Logger,org.slf4j.Logger,org.apache.commons.logging.Log,org.apache.log4j.Logger,org.apache.logging.log4j.Logger" />
+  </inspection_tool>
+  <inspection_tool class="ClassWithoutLogger" enabled="false" level="ERROR" enabled_by_default="false">
+    <option name="loggerNamesString" value="java.util.logging.Logger,org.slf4j.Logger,org.apache.commons.logging.Log,org.apache.log4j.Logger,org.apache.logging.log4j.Logger" />
+    <option name="ignoreSuperLoggers" value="false" />
+  </inspection_tool>
   <inspection_tool class="CollectionContainsUrl" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="ComparatorCombinators" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="CompareToUsesNonFinalVariable" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
@@ -32,10 +39,23 @@
     <option name="m_ignoreInvisibleFields" value="true" />
     <option name="m_ignoreStaticMethods" value="true" />
   </inspection_tool>
+  <inspection_tool class="LogStatementGuardedByLogCondition" enabled="false" level="ERROR" enabled_by_default="false" />
+  <inspection_tool class="LoggerInitializedWithForeignClass" enabled="false" level="ERROR" enabled_by_default="false">
+    <option name="loggerFactoryMethodName" value="getLogger,getLogger,getLog,getLogger" />
+  </inspection_tool>
+  <inspection_tool class="LoggingConditionDisagreesWithLogStatement" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="MethodMayBeStatic" enabled="true" level="WEAK WARNING" enabled_by_default="true">
     <option name="m_onlyPrivateOrFinal" value="false" />
     <option name="m_ignoreEmptyMethods" value="true" />
   </inspection_tool>
   <inspection_tool class="NonFinalFieldInEnum" enabled="true" level="ERROR" enabled_by_default="true" />
+  <inspection_tool class="NonStaticFinalLogger" enabled="false" level="ERROR" enabled_by_default="false">
+    <option name="loggerClassName" value="java.util.logging.Logger,org.slf4j.Logger,org.apache.commons.logging.Log,org.apache.log4j.Logger,org.apache.logging.log4j.Logger" />
+  </inspection_tool>
+  <inspection_tool class="PlaceholderCountMatchesArgumentCount" enabled="true" level="ERROR" enabled_by_default="true" />
+  <inspection_tool class="PublicMethodWithoutLogging" enabled="false" level="ERROR" enabled_by_default="false">
+    <option name="loggerClassName" value="java.util.logging.Logger,org.slf4j.Logger,org.apache.commons.logging.Log,org.apache.log4j.Logger,org.apache.logging.log4j.Logger" />
+  </inspection_tool>
   <inspection_tool class="ReuseOfLocalVariable" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="StringConcatenationArgumentToLogCall" enabled="false" level="ERROR" enabled_by_default="false" />
 </profile>
