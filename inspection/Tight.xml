@@ -49,6 +49,7 @@
     <option name="m_ignoreEmptyMethods" value="true" />
   </inspection_tool>
   <inspection_tool class="NonFinalFieldInEnum" enabled="true" level="ERROR" enabled_by_default="true" />
+  <inspection_tool class="NonSerializableWithSerialVersionUIDField" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="NonStaticFinalLogger" enabled="false" level="ERROR" enabled_by_default="false">
     <option name="loggerClassName" value="java.util.logging.Logger,org.slf4j.Logger,org.apache.commons.logging.Log,org.apache.log4j.Logger,org.apache.logging.log4j.Logger" />
   </inspection_tool>
@@ -57,5 +58,11 @@
     <option name="loggerClassName" value="java.util.logging.Logger,org.slf4j.Logger,org.apache.commons.logging.Log,org.apache.log4j.Logger,org.apache.logging.log4j.Logger" />
   </inspection_tool>
   <inspection_tool class="ReuseOfLocalVariable" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="SerialVersionUIDNotStaticFinal" enabled="true" level="ERROR" enabled_by_default="true" />
+  <inspection_tool class="SerializableHasSerialVersionUIDField" enabled="true" level="ERROR" enabled_by_default="true">
+    <option name="ignoreAnonymousInnerClasses" value="false" />
+    <option name="superClassString" value="java.awt.Component" />
+  </inspection_tool>
+  <inspection_tool class="SerializableInnerClassHasSerialVersionUIDField" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="StringConcatenationArgumentToLogCall" enabled="false" level="ERROR" enabled_by_default="false" />
 </profile>
