@@ -31,7 +31,11 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="git@gitlab.jobapi.io:search-auctions/rosetta-keyword-api.git" />
+          <option name="url" value="git@gitlab.jobapi.io:hobbit/mordor.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.jobapi.io:hobbit/sirannon.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
