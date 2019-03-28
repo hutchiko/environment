@@ -1,6 +1,7 @@
 <application>
   <component name="CodeInsightSettings">
     <option name="SHOW_PARAMETER_NAME_HINTS_ON_COMPLETION" value="true" />
+    <EXCLUDED_PACKAGE NAME="org.codehaus.jackson" />
   </component>
   <component name="DaemonCodeAnalyzerSettings" profile="Tight" />
 </application>
