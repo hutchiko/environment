@@ -6,7 +6,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'Meta+F9' or 'Ctrl+F9' or 'Alt+F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>90</Count>
+          <Count>92</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit Directory...">
@@ -38,6 +38,14 @@
           <IdeaActionID>CopyReference</IdeaActionID>
           <ShortCut>'Meta+Alt+Shift+C'</ShortCut>
           <Description>Copy Relative Path</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Copy Value">
+        <Item>
+          <IdeaActionID>XDebugger.CopyValue</IdeaActionID>
+          <ShortCut>'Meta+C' or 'Meta+Insert' or 'Ctrl+C'</ShortCut>
+          <Description>Copy Value</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -95,6 +103,14 @@
           <ShortCut>'Ctrl+Shift+D'</ShortCut>
           <Description>Debug 'testCanParseSchema...()'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'testWriteReadUpdat...()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+D'</ShortCut>
+          <Description>Debug 'testWriteReadUpdat...()'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
@@ -190,7 +206,7 @@
           <IdeaActionID>ExtractMethod</IdeaActionID>
           <ShortCut>'Meta+Alt+M' or 'Ctrl+Alt+M'</ShortCut>
           <Description>Method...</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Move...">
@@ -326,7 +342,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'Meta+Alt+R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>35</Count>
+          <Count>37</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -342,7 +358,15 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Meta+4'</ShortCut>
           <Description>Run</Description>
-          <Count>4</Count>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'CasandraJobStoreIntegrationTest.testWriteReadUpdateReadDelete'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Ctrl+R'</ShortCut>
+          <Description>Run 'CasandraJobStoreIntegrationTest.testWriteReadUpdateReadDelete'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'CasandraJobStoreUnitTest'">
@@ -374,7 +398,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+R'</ShortCut>
           <Description>Run 'HashEnricherUnitTest'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'IngestionMessagePars...'">
@@ -409,6 +433,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'JobRequestHandlerTes...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+R'</ShortCut>
+          <Description>Run 'JobRequestHandlerTes...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'JobRequestHandlerTest'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -422,7 +454,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+R'</ShortCut>
           <Description>Run 'Tests in 'hobbit''</Description>
-          <Count>3</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'hobbit in mordor.ingestion.test'">
@@ -454,7 +486,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Meta+Comma' or 'Alt+Comma'</ShortCut>
           <Description>Settings...</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Out">
@@ -470,6 +502,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Meta+F2'</ShortCut>
           <Description>Stop ':ingestion:test'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'CasandraJobStoreIntegrationTest.testWriteReadUpdateReadDelete'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Meta+F2'</ShortCut>
+          <Description>Stop 'CasandraJobStoreIntegrationTest.testWriteReadUpdateReadDelete'</Description>
           <Count>2</Count>
         </Item>
       </Statistic>
@@ -518,7 +558,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>61</Count>
+          <Count>63</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -526,7 +566,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Meta+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>48</Count>
+          <Count>50</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
