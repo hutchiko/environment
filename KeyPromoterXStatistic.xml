@@ -249,6 +249,14 @@
           <Count>8</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Optimize Imports">
+        <Item>
+          <IdeaActionID>OptimizeImports</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+O'</ShortCut>
+          <Description>Optimize Imports</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Parameter...">
         <Item>
           <IdeaActionID>IntroduceParameter</IdeaActionID>
