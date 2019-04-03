@@ -22,7 +22,7 @@
           <IdeaActionID>CheckinFiles</IdeaActionID>
           <ShortCut>'Meta+Shift+C' or 'Alt+Shift+C'</ShortCut>
           <Description>Commit Directory...</Description>
-          <Count>53</Count>
+          <Count>57</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit File...">
