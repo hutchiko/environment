@@ -54,7 +54,7 @@
           <IdeaActionID>CompareTwoFiles</IdeaActionID>
           <ShortCut>'Meta+D'</ShortCut>
           <Description>Compare Files</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -590,7 +590,7 @@
           <IdeaActionID>NewScratchFile</IdeaActionID>
           <ShortCut>'Meta+Shift+N'</ShortCut>
           <Description>Scratch File</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">
