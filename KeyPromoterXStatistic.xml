@@ -302,7 +302,7 @@
           <IdeaActionID>ExtractMethod</IdeaActionID>
           <ShortCut>'Meta+Alt+M' or 'Ctrl+Alt+M'</ShortCut>
           <Description>Method...</Description>
-          <Count>12</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Move...">
@@ -734,7 +734,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>126</Count>
+          <Count>127</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
