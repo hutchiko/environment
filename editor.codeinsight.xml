@@ -2,6 +2,8 @@
   <component name="CodeInsightSettings">
     <option name="SHOW_PARAMETER_NAME_HINTS_ON_COMPLETION" value="true" />
     <EXCLUDED_PACKAGE NAME="avro.shaded" />
+    <EXCLUDED_PACKAGE NAME="junit.framework" />
+    <EXCLUDED_PACKAGE NAME="junit.framework.TestCase" />
     <EXCLUDED_PACKAGE NAME="org.assertj.core.api.AssertionsForInterfaceTypes" />
     <EXCLUDED_PACKAGE NAME="org.assertj.core.api.Java6Assertions" />
     <EXCLUDED_PACKAGE NAME="org.codehaus.jackson" />
