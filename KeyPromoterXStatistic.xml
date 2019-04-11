@@ -62,7 +62,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'Meta+C' or 'Meta+Insert' or 'Ctrl+C'</ShortCut>
           <Description>Copy</Description>
-          <Count>110</Count>
+          <Count>111</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Frame">
@@ -230,7 +230,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exclude">
@@ -350,7 +350,7 @@
           <IdeaActionID>$Paste</IdeaActionID>
           <ShortCut>'Meta+V' or 'Shift+Insert' or 'Ctrl+V'</ShortCut>
           <Description>Paste</Description>
-          <Count>26</Count>
+          <Count>27</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -470,7 +470,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'Meta+Alt+R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>145</Count>
+          <Count>150</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -846,7 +846,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Meta+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>116</Count>
+          <Count>120</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">
