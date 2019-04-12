@@ -886,7 +886,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Meta+9' or 'Meta+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>24</Count>
+          <Count>25</Count>
         </Item>
       </Statistic>
     </option>
