@@ -14,7 +14,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'Meta+F9' or 'Ctrl+F9' or 'Alt+F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>109</Count>
+          <Count>110</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit Directory...">
@@ -70,7 +70,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'Meta+C' or 'Meta+Insert' or 'Ctrl+C'</ShortCut>
           <Description>Copy</Description>
-          <Count>111</Count>
+          <Count>112</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Frame">
@@ -854,7 +854,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>150</Count>
+          <Count>151</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -886,7 +886,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Meta+9' or 'Meta+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>23</Count>
+          <Count>24</Count>
         </Item>
       </Statistic>
     </option>
