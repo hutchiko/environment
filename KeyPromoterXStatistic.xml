@@ -262,7 +262,7 @@
           <IdeaActionID>UsageView.Exclude</IdeaActionID>
           <ShortCut>'Delete' or 'Backspace' or 'Meta+Backspace'</ShortCut>
           <Description>Exclude</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exclude All">
@@ -894,7 +894,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>204</Count>
+          <Count>205</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
