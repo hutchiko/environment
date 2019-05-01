@@ -22,7 +22,7 @@
           <IdeaActionID>CheckinFiles</IdeaActionID>
           <ShortCut>'Meta+Shift+C' or 'Alt+Shift+C'</ShortCut>
           <Description>Commit Directory...</Description>
-          <Count>152</Count>
+          <Count>154</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit File...">
@@ -46,7 +46,7 @@
           <IdeaActionID>Vcs.ShowMessageHistory</IdeaActionID>
           <ShortCut>'Ctrl+M' or 'Meta+E'</ShortCut>
           <Description>Commit Message History</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit...">
@@ -383,6 +383,14 @@
           <ShortCut>'Meta+;' or 'Alt+;'</ShortCut>
           <Description>Project Structure...</Description>
           <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Push...">
+        <Item>
+          <IdeaActionID>Vcs.Push</IdeaActionID>
+          <ShortCut>'Meta+Shift+K'</ShortCut>
+          <Description>Push...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Recompile '...entMessageTest.java'">
@@ -910,7 +918,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>210</Count>
+          <Count>211</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -942,7 +950,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Meta+9' or 'Meta+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>51</Count>
+          <Count>53</Count>
         </Item>
       </Statistic>
     </option>
