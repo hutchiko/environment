@@ -270,7 +270,7 @@
           <IdeaActionID>UsageView.Exclude</IdeaActionID>
           <ShortCut>'Delete' or 'Backspace' or 'Meta+Backspace'</ShortCut>
           <Description>Exclude</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exclude All">
