@@ -14,7 +14,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'Meta+F9' or 'Ctrl+F9' or 'Alt+F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>165</Count>
+          <Count>166</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit Directory...">
@@ -649,6 +649,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'IndexDeltaMarshallerUnitTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+R'</ShortCut>
+          <Description>Run 'IndexDeltaMarshallerUnitTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'IngestionApiIntegrationTest'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -1006,7 +1014,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>248</Count>
+          <Count>249</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
