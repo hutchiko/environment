@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.proto" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -14,7 +13,7 @@
     <mask>*.mxml</mask>
     <mask>*.avdl</mask>
     <mask>*.json</mask>
-    <mask>*.java</mask>
     <mask>*.proto</mask>
+    <mask>*.java</mask>
   </component>
 </application>
