@@ -22,7 +22,7 @@
           <IdeaActionID>CheckinFiles</IdeaActionID>
           <ShortCut>'Meta+Shift+C' or 'Alt+Shift+C'</ShortCut>
           <Description>Commit Directory...</Description>
-          <Count>179</Count>
+          <Count>181</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit File...">
@@ -1022,7 +1022,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>270</Count>
+          <Count>273</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
