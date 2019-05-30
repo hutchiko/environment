@@ -14,7 +14,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'Meta+F9' or 'Ctrl+F9' or 'Alt+F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>172</Count>
+          <Count>173</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit Directory...">
@@ -1014,7 +1014,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Meta+F2'</ShortCut>
           <Description>Stop 'RangeEncodingTest.testRangeEncoding'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'SearchApiIntegrationTestV3'">
