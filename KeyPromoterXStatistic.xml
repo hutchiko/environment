@@ -537,6 +537,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'JobsBySalary'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Meta+R'</ShortCut>
+          <Description>Rerun 'JobsBySalary'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'LocationJobSearchUnitTest.testFilterLocation'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -574,7 +582,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'Meta+Alt+R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>406</Count>
+          <Count>440</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -783,6 +791,14 @@
           <ShortCut>'Ctrl+Shift+R'</ShortCut>
           <Description>Run 'JobServiceIntegrationTest'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'JobsBySalary'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Ctrl+R'</ShortCut>
+          <Description>Run 'JobsBySalary'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'LocationIndexIntegrationTest'">
@@ -1046,7 +1062,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Meta+F2'</ShortCut>
           <Description>Stop 'JobsBySalary'</Description>
-          <Count>7</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'LocationIndexUnitTest'">
@@ -1126,7 +1142,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Meta+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>278</Count>
+          <Count>281</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">
