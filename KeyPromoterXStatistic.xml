@@ -38,7 +38,7 @@
           <IdeaActionID>CheckinFiles</IdeaActionID>
           <ShortCut>'Meta+Shift+C' or 'Alt+Shift+C'</ShortCut>
           <Description>Commit File...</Description>
-          <Count>39</Count>
+          <Count>40</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit Files...">
@@ -550,6 +550,14 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Meta+R'</ShortCut>
           <Description>Rerun 'JobsBySalary'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'LanePrioritiserTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Meta+R'</ShortCut>
+          <Description>Rerun 'LanePrioritiserTest'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
