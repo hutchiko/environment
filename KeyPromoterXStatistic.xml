@@ -529,6 +529,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'CassandraJobHistoryStoreIntegrationTest.testRetrySucceedsIfSelectShowsWriteDidReadyWork'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Meta+R'</ShortCut>
+          <Description>Rerun 'CassandraJobHistoryStoreIntegrationTest.testRetrySucceedsIfSelectShowsWriteDidReadyWork'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'DevJobParserUnitTest'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
