@@ -406,7 +406,7 @@
           <IdeaActionID>ExtractMethod</IdeaActionID>
           <ShortCut>'Meta+Alt+M' or 'Ctrl+Alt+M'</ShortCut>
           <Description>Method...</Description>
-          <Count>44</Count>
+          <Count>45</Count>
         </Item>
       </Statistic>
       <Statistic Action="Move...">
@@ -542,6 +542,14 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Meta+R'</ShortCut>
           <Description>Rerun 'EnrichedJobProcessorUnitTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'JobIndexUnitTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Meta+R'</ShortCut>
+          <Description>Rerun 'JobIndexUnitTest'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -790,7 +798,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Ctrl+R'</ShortCut>
           <Description>Run 'JobIndexUnitTest'</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'JobRequestHandlerTes...'">
