@@ -1041,6 +1041,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'BooleanJobSearchUnitTest.testNddegatedQuery'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Meta+F2'</ShortCut>
+          <Description>Stop 'BooleanJobSearchUnitTest.testNddegatedQuery'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'BooleanJobSearchUnitTest.testPhrases'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1214,7 +1222,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>323</Count>
+          <Count>325</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -1246,7 +1254,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Meta+9' or 'Meta+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>79</Count>
+          <Count>80</Count>
         </Item>
       </Statistic>
     </option>
