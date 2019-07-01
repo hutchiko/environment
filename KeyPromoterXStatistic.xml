@@ -446,7 +446,7 @@
           <IdeaActionID>IntroduceParameter</IdeaActionID>
           <ShortCut>'Meta+Alt+P' or 'Ctrl+Alt+P'</ShortCut>
           <Description>Parameter...</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste">
