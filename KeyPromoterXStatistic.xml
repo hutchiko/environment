@@ -134,7 +134,7 @@
           <IdeaActionID>$Cut</IdeaActionID>
           <ShortCut>'Meta+X' or 'Shift+Delete' or 'Ctrl+X'</ShortCut>
           <Description>Cut</Description>
-          <Count>17</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug">
@@ -454,7 +454,7 @@
           <IdeaActionID>$Paste</IdeaActionID>
           <ShortCut>'Meta+V' or 'Shift+Insert' or 'Ctrl+V'</ShortCut>
           <Description>Paste</Description>
-          <Count>40</Count>
+          <Count>41</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -1230,7 +1230,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>328</Count>
+          <Count>329</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
