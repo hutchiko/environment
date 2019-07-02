@@ -94,7 +94,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'Meta+C' or 'Meta+Insert' or 'Ctrl+C'</ShortCut>
           <Description>Copy</Description>
-          <Count>191</Count>
+          <Count>192</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Frame">
@@ -406,7 +406,7 @@
           <IdeaActionID>XDebugger.JumpToTypeSource</IdeaActionID>
           <ShortCut>'Shift+F4'</ShortCut>
           <Description>Jump To Type Source</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Source">
@@ -630,7 +630,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'Meta+Alt+R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>585</Count>
+          <Count>616</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1254,7 +1254,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>334</Count>
+          <Count>336</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -1262,7 +1262,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Meta+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>422</Count>
+          <Count>439</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">
