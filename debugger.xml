@@ -86,6 +86,25 @@
   <component name="NodeRendererSettings">
     <CustomRenderers VERSION="8">
       <Renderer ID="CompoundTypeRenderer">
+        <option name="NAME" value="org.roaringbitmap.buffer.MutableRoaringBitmap" />
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="org.roaringbitmap.buffer.MutableRoaringBitmap" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="org.roaringbitmap.buffer.MutableRoaringBitmap" />
+          <option name="ON_DEMAND" value="false" />
+          <option name="LABEL_EXPRESSION" value="getCardinality()&#13;&#13;JAVA" />
+        </Renderer>
+        <Renderer ID="EnumerationChildrenRenderer" role="children">
+          <option name="QUALIFIED_NAME" value="org.roaringbitmap.buffer.MutableRoaringBitmap" />
+          <ChildrenExpression Name="cardnality">
+            <TextWithImports text="getCardinality()&#13;&#13;JAVA" type="expression" />
+          </ChildrenExpression>
+          <ChildrenExpression Name="values">
+            <TextWithImports text="toString()&#13;&#13;JAVA" type="expression" />
+          </ChildrenExpression>
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundTypeRenderer">
         <option name="ENABLED" value="true" />
         <option name="QUALIFIED_NAME" value="hobbit.mordor.index.location.LocationIndex" />
         <Renderer ID="EnumerationChildrenRenderer" role="children">
