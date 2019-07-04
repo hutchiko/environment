@@ -422,7 +422,7 @@
           <IdeaActionID>ExtractMethod</IdeaActionID>
           <ShortCut>'Meta+Alt+M' or 'Ctrl+Alt+M'</ShortCut>
           <Description>Method...</Description>
-          <Count>62</Count>
+          <Count>63</Count>
         </Item>
       </Statistic>
       <Statistic Action="Move...">
