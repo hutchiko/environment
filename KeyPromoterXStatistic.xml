@@ -422,7 +422,7 @@
           <IdeaActionID>ExtractMethod</IdeaActionID>
           <ShortCut>'Meta+Alt+M' or 'Ctrl+Alt+M'</ShortCut>
           <Description>Method...</Description>
-          <Count>63</Count>
+          <Count>64</Count>
         </Item>
       </Statistic>
       <Statistic Action="Move...">
@@ -622,6 +622,14 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Meta+R'</ShortCut>
           <Description>Rerun 'NameFormatterUnitTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'SalaryIndexBenchmark'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Meta+R'</ShortCut>
+          <Description>Rerun 'SalaryIndexBenchmark'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -1231,6 +1239,14 @@
           <ShortCut>'Meta+F2'</ShortCut>
           <Description>Stop 'RangeEncodingTest.testRangeEncoding'</Description>
           <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'SalaryIndexBenchmark'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Meta+F2'</ShortCut>
+          <Description>Stop 'SalaryIndexBenchmark'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'SearchApiIntegrationTestV3'">
