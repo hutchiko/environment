@@ -785,6 +785,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'IndexBenchDataExporter'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Ctrl+R'</ShortCut>
+          <Description>Run 'IndexBenchDataExporter'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'IndexDeltaMarshallerUnitTest'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -1166,6 +1174,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Meta+F2'</ShortCut>
           <Description>Stop 'FastBitmapUnitTest.testFindBitSpans'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'FastBitmapUnitTest.testIterate'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Meta+F2'</ShortCut>
+          <Description>Stop 'FastBitmapUnitTest.testIterate'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -1342,7 +1358,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>349</Count>
+          <Count>351</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -1350,7 +1366,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Meta+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>559</Count>
+          <Count>561</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">
