@@ -390,7 +390,7 @@
           <IdeaActionID>Generate</IdeaActionID>
           <ShortCut>'Meta+N' or 'Ctrl+Enter'</ShortCut>
           <Description>Generate...</Description>
-          <Count>16</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Home Directory">
