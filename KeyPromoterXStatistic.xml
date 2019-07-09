@@ -422,7 +422,7 @@
           <IdeaActionID>ExtractMethod</IdeaActionID>
           <ShortCut>'Meta+Alt+M' or 'Ctrl+Alt+M'</ShortCut>
           <Description>Method...</Description>
-          <Count>65</Count>
+          <Count>66</Count>
         </Item>
       </Statistic>
       <Statistic Action="Move...">
@@ -454,7 +454,7 @@
           <IdeaActionID>IntroduceParameter</IdeaActionID>
           <ShortCut>'Meta+Alt+P' or 'Ctrl+Alt+P'</ShortCut>
           <Description>Parameter...</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste">
