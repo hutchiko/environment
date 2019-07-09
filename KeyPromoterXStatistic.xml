@@ -422,7 +422,7 @@
           <IdeaActionID>ExtractMethod</IdeaActionID>
           <ShortCut>'Meta+Alt+M' or 'Ctrl+Alt+M'</ShortCut>
           <Description>Method...</Description>
-          <Count>64</Count>
+          <Count>65</Count>
         </Item>
       </Statistic>
       <Statistic Action="Move...">
@@ -678,7 +678,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'Meta+Alt+Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>50</Count>
+          <Count>51</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
