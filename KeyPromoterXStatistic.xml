@@ -686,7 +686,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Meta+4'</ShortCut>
           <Description>Run</Description>
-          <Count>29</Count>
+          <Count>31</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'BitmapSerializationBench'">
