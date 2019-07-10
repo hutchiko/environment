@@ -94,7 +94,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'Meta+C' or 'Meta+Insert' or 'Ctrl+C'</ShortCut>
           <Description>Copy</Description>
-          <Count>206</Count>
+          <Count>207</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Frame">
