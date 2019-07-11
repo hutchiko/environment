@@ -14,7 +14,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'Meta+F9' or 'Ctrl+F9' or 'Alt+F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>212</Count>
+          <Count>215</Count>
         </Item>
       </Statistic>
       <Statistic Action="Change Signature...">
@@ -38,7 +38,7 @@
           <IdeaActionID>CheckinFiles</IdeaActionID>
           <ShortCut>'Meta+Shift+C' or 'Alt+Shift+C'</ShortCut>
           <Description>Commit Directory...</Description>
-          <Count>248</Count>
+          <Count>249</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit File...">
@@ -678,7 +678,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'Meta+Alt+R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>831</Count>
+          <Count>845</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1353,6 +1353,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'RankUtilUnitTest.testPersonalisedFreshness'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Meta+F2'</ShortCut>
+          <Description>Stop 'RankUtilUnitTest.testPersonalisedFreshness'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'SalaryIndexBenchmark'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1446,7 +1454,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Meta+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>629</Count>
+          <Count>635</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">
