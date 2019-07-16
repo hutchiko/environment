@@ -14,7 +14,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'Meta+F9' or 'Ctrl+F9' or 'Alt+F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>217</Count>
+          <Count>220</Count>
         </Item>
       </Statistic>
       <Statistic Action="Change Signature...">
@@ -686,7 +686,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'Meta+Alt+Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>53</Count>
+          <Count>54</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -822,7 +822,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Ctrl+R'</ShortCut>
           <Description>Run 'IndexBenchDataExporter'</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'IndexDeltaMarshallerUnitTest'">
@@ -1278,7 +1278,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Meta+F2'</ShortCut>
           <Description>Stop 'IndexBenchDataExporter'</Description>
-          <Count>3</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'IngestionMessageParserTest'">
@@ -1462,7 +1462,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>373</Count>
+          <Count>375</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -1470,7 +1470,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Meta+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>638</Count>
+          <Count>641</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">
@@ -1494,7 +1494,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Meta+9' or 'Meta+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>92</Count>
+          <Count>94</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
