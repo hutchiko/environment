@@ -13,8 +13,9 @@
       <mapping pattern="inventory-ollies-test" type="PLAIN_TEXT" />
       <mapping pattern="inventory-ingestion-dev2-only" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
-      <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
+      <mapping ext="bin" type="PLAIN_TEXT" />
+      <mapping ext="gz" type="PLAIN_TEXT" />
       <mapping ext="env" type="Properties" />
       <mapping pattern="ChronicleBackedProducerTest" type="Scala" />
     </extensionMap>
