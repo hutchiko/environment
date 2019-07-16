@@ -14,7 +14,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'Meta+F9' or 'Ctrl+F9' or 'Alt+F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>221</Count>
+          <Count>227</Count>
         </Item>
       </Statistic>
       <Statistic Action="Change Signature...">
@@ -38,7 +38,7 @@
           <IdeaActionID>CheckinFiles</IdeaActionID>
           <ShortCut>'Meta+Shift+C' or 'Alt+Shift+C'</ShortCut>
           <Description>Commit Directory...</Description>
-          <Count>258</Count>
+          <Count>259</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit File...">
@@ -62,7 +62,7 @@
           <IdeaActionID>Vcs.ShowMessageHistory</IdeaActionID>
           <ShortCut>'Ctrl+M' or 'Meta+E'</ShortCut>
           <Description>Commit Message History</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit...">
@@ -470,7 +470,7 @@
           <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
           <ShortCut>'Meta+;' or 'Alt+;'</ShortCut>
           <Description>Project Structure...</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Push...">
@@ -542,6 +542,14 @@
           <IdeaActionID>Compile</IdeaActionID>
           <ShortCut>'Meta+Shift+F9' or 'Alt+Shift+F9'</ShortCut>
           <Description>Recompile 'UpsertMessage.java'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Refresh all Gradle projects">
+        <Item>
+          <IdeaActionID>ExternalSystem.RefreshAllProjects</IdeaActionID>
+          <ShortCut>'Alt+G'</ShortCut>
+          <Description>Refresh all Gradle projects</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -678,7 +686,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'Meta+Alt+R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>847</Count>
+          <Count>848</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1462,7 +1470,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>377</Count>
+          <Count>381</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -1470,7 +1478,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Meta+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>642</Count>
+          <Count>644</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">
@@ -1494,7 +1502,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Meta+9' or 'Meta+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>94</Count>
+          <Count>97</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
