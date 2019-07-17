@@ -465,6 +465,14 @@
           <Count>43</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Project">
+        <Item>
+          <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
+          <ShortCut>'Meta+1'</ShortCut>
+          <Description>Project</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Project Structure...">
         <Item>
           <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
@@ -542,6 +550,14 @@
           <IdeaActionID>Compile</IdeaActionID>
           <ShortCut>'Meta+Shift+F9' or 'Alt+Shift+F9'</ShortCut>
           <Description>Recompile 'UpsertMessage.java'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Reformat Code">
+        <Item>
+          <IdeaActionID>ReformatCode</IdeaActionID>
+          <ShortCut>'Meta+Alt+L' or 'Ctrl+Alt+L'</ShortCut>
+          <Description>Reformat Code</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -1073,6 +1089,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'xref'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+R'</ShortCut>
+          <Description>Run 'xref'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Scratch File">
         <Item>
           <IdeaActionID>NewScratchFile</IdeaActionID>
@@ -1478,6 +1502,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Meta+F2'</ShortCut>
           <Description>Stop 'hobbit in mordor.search.test'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'xref'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Meta+F2'</ShortCut>
+          <Description>Stop 'xref'</Description>
           <Count>2</Count>
         </Item>
       </Statistic>
