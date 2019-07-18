@@ -22,7 +22,7 @@
           <IdeaActionID>Console.Jdbc.Terminate</IdeaActionID>
           <ShortCut>'Meta+F2'</ShortCut>
           <Description>Cancel Running Statements</Description>
-          <Count>3</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Change Signature...">
@@ -102,7 +102,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'Meta+C' or 'Meta+Insert' or 'Ctrl+C'</ShortCut>
           <Description>Copy</Description>
-          <Count>211</Count>
+          <Count>213</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Frame">
@@ -345,6 +345,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Drop">
+        <Item>
+          <IdeaActionID>$Delete</IdeaActionID>
+          <ShortCut>'Delete' or 'Backspace' or 'Meta+Backspace'</ShortCut>
+          <Description>Drop</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Evaluate Expression...">
         <Item>
           <IdeaActionID>EvaluateExpression</IdeaActionID>
@@ -374,7 +382,7 @@
           <IdeaActionID>Console.Jdbc.Execute</IdeaActionID>
           <ShortCut>'Meta+Enter'</ShortCut>
           <Description>Execute</Description>
-          <Count>28</Count>
+          <Count>66</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exit">
@@ -465,12 +473,20 @@
           <Count>67</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Modify Column...">
+        <Item>
+          <IdeaActionID>ModifyObject</IdeaActionID>
+          <ShortCut>'Meta+F6' or 'Ctrl+F6'</ShortCut>
+          <Description>Modify Column...</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Modify Table...">
         <Item>
           <IdeaActionID>ModifyObject</IdeaActionID>
           <ShortCut>'Meta+F6' or 'Ctrl+F6'</ShortCut>
           <Description>Modify Table...</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Move...">
@@ -646,7 +662,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'Shift+F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>14</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Replace in Path...">
@@ -1598,6 +1614,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Meta+F2'</ShortCut>
           <Description>Stop...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Synchronize">
+        <Item>
+          <IdeaActionID>DatabaseView.SynchronizeAction</IdeaActionID>
+          <ShortCut>'Meta+Alt+Y'</ShortCut>
+          <Description>Synchronize</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
