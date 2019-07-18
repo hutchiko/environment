@@ -22,7 +22,7 @@
           <IdeaActionID>Console.Jdbc.Terminate</IdeaActionID>
           <ShortCut>'Meta+F2'</ShortCut>
           <Description>Cancel Running Statements</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Change Signature...">
@@ -345,6 +345,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Disconnect">
+        <Item>
+          <IdeaActionID>DatabaseView.CloseConnectionAction</IdeaActionID>
+          <ShortCut>'Meta+F2'</ShortCut>
+          <Description>Disconnect</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Drop">
         <Item>
           <IdeaActionID>$Delete</IdeaActionID>
@@ -382,7 +390,7 @@
           <IdeaActionID>Console.Jdbc.Execute</IdeaActionID>
           <ShortCut>'Meta+Enter'</ShortCut>
           <Description>Execute</Description>
-          <Count>67</Count>
+          <Count>100</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exit">
@@ -478,7 +486,7 @@
           <IdeaActionID>ModifyObject</IdeaActionID>
           <ShortCut>'Meta+F6' or 'Ctrl+F6'</ShortCut>
           <Description>Modify Column...</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Modify Table...">
@@ -486,7 +494,7 @@
           <IdeaActionID>ModifyObject</IdeaActionID>
           <ShortCut>'Meta+F6' or 'Ctrl+F6'</ShortCut>
           <Description>Modify Table...</Description>
-          <Count>3</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Move...">
@@ -649,6 +657,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Reload Page">
+        <Item>
+          <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
+          <ShortCut>'Meta+R'</ShortCut>
+          <Description>Reload Page</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Remove">
         <Item>
           <IdeaActionID>UsageView.Remove</IdeaActionID>
@@ -662,7 +678,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'Shift+F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>16</Count>
+          <Count>19</Count>
         </Item>
       </Statistic>
       <Statistic Action="Replace in Path...">
@@ -1622,7 +1638,7 @@
           <IdeaActionID>DatabaseView.SynchronizeAction</IdeaActionID>
           <ShortCut>'Meta+Alt+Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
