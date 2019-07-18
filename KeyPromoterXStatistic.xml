@@ -102,7 +102,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'Meta+C' or 'Meta+Insert' or 'Ctrl+C'</ShortCut>
           <Description>Copy</Description>
-          <Count>213</Count>
+          <Count>214</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Frame">
@@ -358,7 +358,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete' or 'Backspace' or 'Meta+Backspace'</ShortCut>
           <Description>Drop</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -390,7 +390,7 @@
           <IdeaActionID>Console.Jdbc.Execute</IdeaActionID>
           <ShortCut>'Meta+Enter'</ShortCut>
           <Description>Execute</Description>
-          <Count>100</Count>
+          <Count>122</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exit">
