@@ -361,6 +361,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Execute">
+        <Item>
+          <IdeaActionID>Console.Jdbc.Execute</IdeaActionID>
+          <ShortCut>'Meta+Enter'</ShortCut>
+          <Description>Execute</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Exit">
         <Item>
           <IdeaActionID>Exit</IdeaActionID>
@@ -417,6 +425,14 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Jump to Editor">
+        <Item>
+          <IdeaActionID>Jdbc.OpenEditor</IdeaActionID>
+          <ShortCut>'Meta+Down' or 'F4'</ShortCut>
+          <Description>Jump to Editor</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Jump to Source">
         <Item>
           <IdeaActionID>EditSource</IdeaActionID>
@@ -433,6 +449,14 @@
           <Count>67</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Modify Table...">
+        <Item>
+          <IdeaActionID>ModifyObject</IdeaActionID>
+          <ShortCut>'Meta+F6' or 'Ctrl+F6'</ShortCut>
+          <Description>Modify Table...</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Move...">
         <Item>
           <IdeaActionID>Move</IdeaActionID>
@@ -447,6 +471,14 @@
           <ShortCut>'Insert'</ShortCut>
           <Description>New Watch...</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Next Page">
+        <Item>
+          <IdeaActionID>Console.TableResult.NextPage</IdeaActionID>
+          <ShortCut>'Meta+Alt+Down'</ShortCut>
+          <Description>Next Page</Description>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Optimize Imports">
@@ -598,7 +630,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'Shift+F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>11</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Replace in Path...">
