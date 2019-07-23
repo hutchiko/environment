@@ -142,7 +142,7 @@
           <IdeaActionID>$Cut</IdeaActionID>
           <ShortCut>'Meta+X' or 'Shift+Delete' or 'Ctrl+X'</ShortCut>
           <Description>Cut</Description>
-          <Count>20</Count>
+          <Count>22</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug">
@@ -542,7 +542,7 @@
           <IdeaActionID>$Paste</IdeaActionID>
           <ShortCut>'Meta+V' or 'Shift+Insert' or 'Ctrl+V'</ShortCut>
           <Description>Paste</Description>
-          <Count>43</Count>
+          <Count>45</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
