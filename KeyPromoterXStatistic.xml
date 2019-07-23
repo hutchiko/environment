@@ -22,7 +22,7 @@
           <IdeaActionID>Console.Jdbc.Terminate</IdeaActionID>
           <ShortCut>'Meta+F2'</ShortCut>
           <Description>Cancel Running Statements</Description>
-          <Count>8</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Change Signature...">
@@ -390,7 +390,7 @@
           <IdeaActionID>Console.Jdbc.Execute</IdeaActionID>
           <ShortCut>'Meta+Enter'</ShortCut>
           <Description>Execute</Description>
-          <Count>122</Count>
+          <Count>136</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exit">
@@ -519,6 +519,14 @@
           <ShortCut>'Meta+Alt+Down'</ShortCut>
           <Description>Next Page</Description>
           <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Open Console">
+        <Item>
+          <IdeaActionID>Jdbc.OpenEditor</IdeaActionID>
+          <ShortCut>'Meta+Down' or 'F4'</ShortCut>
+          <Description>Open Console</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Optimize Imports">
