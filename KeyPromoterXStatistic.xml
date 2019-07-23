@@ -574,7 +574,7 @@
           <IdeaActionID>Vcs.Push</IdeaActionID>
           <ShortCut>'Meta+Shift+K'</ShortCut>
           <Description>Push...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Recompile '...SliceLongIndex.java'">
@@ -1718,7 +1718,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Meta+9' or 'Meta+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>101</Count>
+          <Count>102</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
