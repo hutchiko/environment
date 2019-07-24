@@ -905,6 +905,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'CassandraJobStoreIntegrationTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+R'</ShortCut>
+          <Description>Run 'CassandraJobStoreIntegrationTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'ChronicleCycleFileCleanerServiceUnitTest.runOneIteration'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
