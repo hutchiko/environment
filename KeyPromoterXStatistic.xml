@@ -14,7 +14,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'Meta+F9' or 'Ctrl+F9' or 'Alt+F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>232</Count>
+          <Count>237</Count>
         </Item>
       </Statistic>
       <Statistic Action="Cancel Running Statements">
@@ -46,7 +46,7 @@
           <IdeaActionID>CheckinFiles</IdeaActionID>
           <ShortCut>'Meta+Shift+C' or 'Alt+Shift+C'</ShortCut>
           <Description>Commit Directory...</Description>
-          <Count>269</Count>
+          <Count>270</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit File...">
@@ -1686,7 +1686,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>388</Count>
+          <Count>390</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Case">
