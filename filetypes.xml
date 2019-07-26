@@ -1,22 +1,32 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="AugmentedReportPartitioner" type="JAVA" />
-      <mapping pattern="xvfb-chrome" type="PLAIN_TEXT" />
-      <mapping pattern="inventory-boolean" type="PLAIN_TEXT" />
-      <mapping pattern="dfdsfs" type="PLAIN_TEXT" />
-      <mapping pattern="xvfb-firefox" type="PLAIN_TEXT" />
-      <mapping pattern="METRICS" type="PLAIN_TEXT" />
       <mapping pattern="docker" type="PLAIN_TEXT" />
-      <mapping pattern="inventory" type="PLAIN_TEXT" />
       <mapping pattern="inventory-ollies-test" type="PLAIN_TEXT" />
+      <mapping pattern="xvfb-chrome" type="PLAIN_TEXT" />
+      <mapping pattern="METRICS" type="PLAIN_TEXT" />
       <mapping pattern="inventory-ingestion-dev2-only" type="PLAIN_TEXT" />
-      <mapping ext="j2" type="PLAIN_TEXT" />
-      <mapping ext="service" type="PLAIN_TEXT" />
-      <mapping ext="bin" type="PLAIN_TEXT" />
+      <mapping pattern="inventory" type="PLAIN_TEXT" />
+      <mapping pattern="dfdsfs" type="PLAIN_TEXT" />
+      <mapping pattern="inventory-boolean" type="PLAIN_TEXT" />
+      <mapping pattern="xvfb-firefox" type="PLAIN_TEXT" />
       <mapping ext="gz" type="PLAIN_TEXT" />
+      <mapping ext="service" type="PLAIN_TEXT" />
+      <mapping ext="j2" type="PLAIN_TEXT" />
+      <mapping ext="bin" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <mapping ext="env" type="Properties" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <mapping pattern="ChronicleBackedProducerTest" type="Scala" />
     </extensionMap>
   </component>
