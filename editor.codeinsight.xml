@@ -1,3 +1,6 @@
 <application>
+  <component name="CodeInsightSettings">
+    <EXCLUDED_PACKAGE NAME="org.hamcrest" />
+  </component>
   <component name="DaemonCodeAnalyzerSettings" profile="Tight" />
 </application>
