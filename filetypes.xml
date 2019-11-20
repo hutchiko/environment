@@ -7,6 +7,7 @@
       <mapping pattern="AugmentedReportPartitioner" type="JAVA" />
       <mapping pattern="xvfb-chrome" type="PLAIN_TEXT" />
       <mapping pattern="inventory-boolean" type="PLAIN_TEXT" />
+      <mapping pattern="files" type="PLAIN_TEXT" />
       <mapping pattern="dfdsfs" type="PLAIN_TEXT" />
       <mapping pattern="xvfb-firefox" type="PLAIN_TEXT" />
       <mapping pattern="METRICS" type="PLAIN_TEXT" />
